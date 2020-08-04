@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
+            this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.search_data = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
@@ -40,7 +41,6 @@
             this.text_city = new System.Windows.Forms.TextBox();
             this.text_street = new System.Windows.Forms.TextBox();
             this.webBrowser1 = new System.Windows.Forms.WebBrowser();
-            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -74,6 +74,16 @@
             this.splitContainer1.SplitterDistance = 432;
             this.splitContainer1.TabIndex = 0;
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(43, 462);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(274, 95);
+            this.button2.TabIndex = 10;
+            this.button2.Text = "Go to google";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(43, 343);
@@ -86,7 +96,7 @@
             // 
             // search_data
             // 
-            this.search_data.Location = new System.Drawing.Point(43, 219);
+            this.search_data.Location = new System.Drawing.Point(43, 225);
             this.search_data.Name = "search_data";
             this.search_data.Size = new System.Drawing.Size(274, 101);
             this.search_data.TabIndex = 8;
@@ -166,16 +176,6 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(998, 644);
             this.webBrowser1.TabIndex = 0;
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(43, 458);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(274, 95);
-            this.button2.TabIndex = 10;
-            this.button2.Text = "Go to google";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // Form1
             // 
