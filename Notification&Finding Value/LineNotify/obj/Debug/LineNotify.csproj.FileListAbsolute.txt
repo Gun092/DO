@@ -1,0 +1,10 @@
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\bin\Debug\LineNotify.exe.config
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\bin\Debug\LineNotify.exe
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\bin\Debug\LineNotify.pdb
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.csprojAssemblyReference.cache
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.Properties.Resources.resources
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.csproj.GenerateResource.cache
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.csproj.CoreCompileInputs.cache
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.exe
+C:\Users\IzoneGun\Desktop\LineNotify-master\LineNotify-master\LineNotify\obj\Debug\LineNotify.pdb
