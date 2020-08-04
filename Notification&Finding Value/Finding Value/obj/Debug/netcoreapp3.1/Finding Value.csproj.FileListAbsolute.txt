@@ -1,0 +1,26 @@
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.exe
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.deps.json
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.runtimeconfig.json
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.runtimeconfig.dev.json
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.dll
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.pdb
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.csprojAssemblyReference.cache
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.AssemblyInfoInputs.cache
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.AssemblyInfo.cs
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.csproj.CoreCompileInputs.cache
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.dll
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.pdb
+C:\Users\IzoneGun\Desktop\Notification\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.genruntimeconfig.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.exe
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.deps.json
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.runtimeconfig.json
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.runtimeconfig.dev.json
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.dll
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\bin\Debug\netcoreapp3.1\Finding Value.pdb
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.csprojAssemblyReference.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.AssemblyInfoInputs.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.AssemblyInfo.cs
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.csproj.CoreCompileInputs.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.dll
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.pdb
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Finding Value\obj\Debug\netcoreapp3.1\Finding Value.genruntimeconfig.cache

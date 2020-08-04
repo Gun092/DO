@@ -1,0 +1,10 @@
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google API.csprojAssemblyReference.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google_API.Form1.resources
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google_API.Properties.Resources.resources
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google API.csproj.GenerateResource.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google API.csproj.CoreCompileInputs.cache
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\bin\Debug\Google API.exe.config
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\bin\Debug\Google API.exe
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\bin\Debug\Google API.pdb
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google API.exe
+C:\Users\IzoneGun\Desktop\Notification&Finding Value\Google API\obj\Debug\Google API.pdb
