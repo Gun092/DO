@@ -19,10 +19,10 @@ namespace Google_API
 
         private void search_data_Click(object sender, EventArgs e)
         {
-            string street = text_street.Text;
+            /*string street = text_street.Text;
             string city = text_city.Text;
             string state = text_state.Text;
-            string zip = text_zip.Text;
+            string zip = text_zip.Text; */
             try
             {
                 StringBuilder queryaddress = new StringBuilder();

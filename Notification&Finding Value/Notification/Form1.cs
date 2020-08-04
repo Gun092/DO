@@ -22,7 +22,9 @@ namespace Notification
         {
             PopupNotifier popup = new PopupNotifier();
             popup.TitleText = "show Message";
+            
             popup.ContentText = "Not Answer";
+            
             popup.Popup();
         }
     }
